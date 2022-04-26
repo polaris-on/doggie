@@ -304,7 +304,7 @@ body._touch .menu__list > li._active .menu__arrow {
 
 .main {
     min-height: 100vh;
-    background-image: url('/img/main-bg-dog.jpg');
+    background-image: url('../img/main-bg-dog.jpg');
     background-size: cover;
     padding: 280px 0 100px 0;
     margin: -164px 0 10px 0;
@@ -327,7 +327,7 @@ body._touch .menu__list > li._active .menu__arrow {
 .who-we-are__body {
     padding: 100px 87px 20px 87px;
     margin: -80px 0 0 0;
-    background: url(/img/who-we-are-blob-bg.svg) -10px 250px no-repeat, #5D62B5;
+    background: url(../img/who-we-are-blob-bg.svg) -10px 250px no-repeat, #5D62B5;
     border-radius: 40px;
 }
 .subtitle {
@@ -345,7 +345,7 @@ body._touch .menu__list > li._active .menu__arrow {
     left: 0;
     width: 17px;
     height: 20px;
-    background: url('/img/subtitle-mark.svg') 0 0 no-repeat;
+    background: url('../img/subtitle-mark.svg') 0 0 no-repeat;
 }
 .who-we-are__subtitle {
     margin-bottom: 33px;
@@ -391,7 +391,7 @@ body._touch .menu__list > li._active .menu__arrow {
     max-width: 590px;
 }
 .promise__subtitle::after {
-    background: url('/img/subtitle-mark-purple.svg') 0 0 no-repeat;
+    background: url('../img/subtitle-mark-purple.svg') 0 0 no-repeat;
 }
 .promise__title {
     font-weight: 900;
@@ -436,8 +436,8 @@ body._touch .menu__list > li._active .menu__arrow {
 /*Appointment*/
 
 .cta {
-    background: url('/img/appointment-blob.png') top left no-repeat, 
-    url('/img/stylize-circles.svg') bottom left no-repeat;
+    background: url('../img/appointment-blob.png') top left no-repeat, 
+    url('../img/stylize-circles.svg') bottom left no-repeat;
     background-color: #29C3BE;
     padding: 44px 0 0px 0;
 }
@@ -463,7 +463,7 @@ body._touch .menu__list > li._active .menu__arrow {
     /* margin: 0 34px 0 0; */
     z-index: 1;
     width: 50%;
-    background: url(/img/appointment-ball-line.png);
+    background: url(../img/appointment-ball-line.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -499,7 +499,7 @@ body._touch .menu__list > li._active .menu__arrow {
     max-width: 590px;
 }
 .services__subtitle::after {
-    background: url('/img/subtitle-mark-purple.svg') 0 0 no-repeat;
+    background: url('../img/subtitle-mark-purple.svg') 0 0 no-repeat;
 }
 .services__title {
     font-weight: 900;
@@ -553,7 +553,7 @@ body._touch .menu__list > li._active .menu__arrow {
 .appointment {
     padding: 130px 0 210px 0;
     display: flex;
-    background: url('/img/appointment-bg.jpg');
+    background: url('../img/appointment-bg.jpg');
     background-size: cover;
 }
 .appointment__wrapper{
@@ -725,7 +725,7 @@ body._touch .menu__list > li._active .menu__arrow {
 .reviews {
     padding: 220px 0 210px 0;
     position: relative;
-    background: url('/img/reviews-bg-blob.png') top 80% left 10% no-repeat;
+    background: url('../img/reviews-bg-blob.png') top 80% left 10% no-repeat;
 }
 .reviews__container {
     z-index: 10;
@@ -749,7 +749,7 @@ body._touch .menu__list > li._active .menu__arrow {
     margin: 0 0 33px 0;
 }
 .reviews__subtitle::after {
-    background: url('/img/subtitle-mark-purple.svg') 0 0 no-repeat;
+    background: url('../img/subtitle-mark-purple.svg') 0 0 no-repeat;
 }
 .reviews__title {
     font-weight: 900;
@@ -793,7 +793,7 @@ body._touch .menu__list > li._active .menu__arrow {
     color: #F2726F;
 }
 .impact {
-    background: url('/img/impact-bg.png') right top / cover no-repeat;
+    background: url('../img/impact-bg.png') right top / cover no-repeat;
     background-size: 654px 284px;
     background-color: #2AB1AD;
     padding: 0px 0 212px 0;
